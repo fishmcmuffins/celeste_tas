@@ -1,0 +1,51 @@
+#To sync:
+#Use Celeste v.1.3.1.2
+#If you're using Everest, turn off show Mod Options in game
+#Start from Begin
+
+Read,StartAssistFile
+
+Read,0ASS - Prologue.tas,Start
+
+Read,Load1A
+
+Read,1ASS,Start
+
+Read,LoadANoCollects
+
+Read,2ASS,Start
+
+Read,LoadANoCollects
+
+Read,3ASS,Start
+
+Read,LoadA
+
+Read,4ASS,Start
+
+Read,LoadANoCollects
+
+Read,5HCASS,Start,Return
+
+Read,LoadBFromA
+
+Read,5BASS,Start
+
+Read,LoadAFromB
+
+Read,6ACASS,Start
+
+Read,LoadBFromA
+
+Read,6BASS,Start
+
+Read,LoadAFromB,Start,Summit
+
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,7ASS,Start
