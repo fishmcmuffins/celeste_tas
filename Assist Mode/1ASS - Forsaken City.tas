@@ -8,23 +8,7 @@ console load 1
    4,R,J
    1,R
   15,R,U,X
-
-#Assist Mode menuing
-#For Infinite Dashes and
-#Invincibility
-   1,S
-   1,F,180
-   1,D,J
-   1,F,180
-   1,D
-   1,R
-   1,F,90
-   1,D
-   1,F,180
-   1,R
-   1,S
-   9
-
+read,AssMenu,DashGod,ExitDG
   15,R,U,C
    4,D,X
    2,R,X
