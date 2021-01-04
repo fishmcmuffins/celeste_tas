@@ -25,7 +25,7 @@ Read,4ASS,Start
 
 Read,LoadANoCollects
 
-Read,5HCASS,Start,Return
+Read,5ASSette,Start
 
 Read,LoadBFromA
 
