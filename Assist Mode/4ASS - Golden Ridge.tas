@@ -48,7 +48,6 @@ console load 4
    7,R
   40
 
-***
 #lvl_a-01x
    1,R,J
    1,R
@@ -87,7 +86,6 @@ console load 4
    1,R
   40
 
-***
 #lvl_a-02
    6,R
    2,R,K
@@ -109,7 +107,6 @@ console load 4
    1,R,J
   40
 
-***
 #lvl_a-04
   14,R,D,X
    5,R,J
@@ -270,7 +267,6 @@ console load 4
    1,R,J,G
    1,R,K,G
    4,R
-***
    4,D,X
    1,R,J
   12,R
